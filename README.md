@@ -1,2 +1,2 @@
 # Trabajo-LMSGI
-(node.js , css , html)
+(node.js , css , html , JavaScript)
